@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/NarutoCharacters/static/css/main.2d51d581.css",
-    "main.js": "/NarutoCharacters/static/js/main.82765d95.js",
+    "main.js": "/NarutoCharacters/static/js/main.e6d00e54.js",
     "static/js/453.931df907.chunk.js": "/NarutoCharacters/static/js/453.931df907.chunk.js",
     "static/media/NarutoCharacters.png": "/NarutoCharacters/static/media/NarutoCharacters.c6669fd06a8906f09c1e.png",
     "static/media/njnaruto.ttf": "/NarutoCharacters/static/media/njnaruto.eb7e0c70752e2f7b008e.ttf",
     "index.html": "/NarutoCharacters/index.html",
     "main.2d51d581.css.map": "/NarutoCharacters/static/css/main.2d51d581.css.map",
-    "main.82765d95.js.map": "/NarutoCharacters/static/js/main.82765d95.js.map",
+    "main.e6d00e54.js.map": "/NarutoCharacters/static/js/main.e6d00e54.js.map",
     "453.931df907.chunk.js.map": "/NarutoCharacters/static/js/453.931df907.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d51d581.css",
-    "static/js/main.82765d95.js"
+    "static/js/main.e6d00e54.js"
   ]
 }
