@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('../assets/njnaruto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1{
+  font-family: 'CustomFont', sans-serif;
+  color:red;
+}
+
+
+body {
+  font-family: 'CustomFont', sans-serif;
+  /* background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(0,128,128,1) 100%); */
+  /* background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/5056.png"); */
+}
+
+.naruto-header {
+  background-image: 
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), 
+    url("https://c4.wallpaperflare.com/wallpaper/738/62/544/naruto-chidori-naruto-naruto-uzumaki-rasengan-naruto-sasuke-uchiha-hd-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: auto;
+}
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
